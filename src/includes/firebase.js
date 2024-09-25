@@ -7,13 +7,14 @@ import { getStorage } from 'firebase/storage';
 import { getAnalytics } from 'firebase/analytics';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDNjmZaRJMNft13E6DZzpiWcerE3sOhZ1o',
-  authDomain: 'milo-music.firebaseapp.com',
-  projectId: 'milo-music',
-  storageBucket: 'milo-music.appspot.com',
-  messagingSenderId: '340263517417',
-  appId: '1:340263517417:web:93f9d2a4440a3d70d4c478',
-  measurementId: 'G-LGPB87L4RX',
+  apiKey: "AIzaSyChVz9Wzx2I-FjziR0teB39QgspINxUXYw",
+  authDomain: "comment-ab863.firebaseapp.com",
+  databaseURL: "https://comment-ab863-default-rtdb.firebaseio.com",
+  projectId: "comment-ab863",
+  storageBucket: "comment-ab863.appspot.com",
+  messagingSenderId: "671930104341",
+  appId: "1:671930104341:web:2a43daa2e6cc4e9ec3ac1c",
+  measurementId: "G-LJ1RYM3C1M"
 };
 
 // Names of the collections in the firebase bucket
