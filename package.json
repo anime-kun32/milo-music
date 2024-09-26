@@ -1,7 +1,10 @@
-{
-	"name": "milo-music",
-	"version": "1.0.0",
-	"private": true,
+{  
+  "name": "milo-music",  
+  "version": "1.0.0",  
+  "private": true,  
+  "engines": {  
+    "node": "16.x"  // Specify the version of Node.js to use  
+  }
 	"scripts": {
 		"serve": "vue-cli-service serve",
 		"build": "vue-cli-service build",
