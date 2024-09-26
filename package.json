@@ -3,7 +3,7 @@
   "version": "1.0.0",  
   "private": true,  
   "engines": {  
-    "node": "16.x"  // Specify the version of Node.js to use  
+    "node": "16.x"  
   },  
   "scripts": {  
     "serve": "vue-cli-service serve",  
